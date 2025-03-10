@@ -29,10 +29,25 @@
      🧠❓ Es un conjunto del circuito el cual diferenciamos del resto
 #### Redes
 Subconjuntos dentro de una señal
+#### Diferencias
+![Diferencias](../../Pictures/EPLAN/potencialvsconexion.PNG)
+- El de la izquierda es un punto de definicion de potencial
+- El de la derecha es un punto de definicion de conexión
+### Nombrar cables automaticamente
+#### Potencial, señal (y redes)
+Hay que tener muy clara la diferencia de potenciales (por actuadores que consumen - bombilla, rele, etc..), y de señal(punto donde puede o no haber el mismo potencial - apartir de un boton, logica etc).
+
 
 ### Navegadores
 - Podemos incluir navegadores, para ello ir a `ver` -> `Abrir`(`navegadores`) -> Seleccionar el deseado.
 - Una vez seleccionado, podemos agruparlo por tabs, arrastrando al 'navegador' (barra lateral), a la que deseemos.
+
+
+
+### Apantallamiento
+
+- **PRO-TIP:** Para poder juntar el apantallamiento con el cable de tierra, se ha de crear de **derecha a izquierda**.
+
 
 ## Estructura
 ### Introducción
@@ -64,3 +79,5 @@ Se puede añadir articulos a la barra de acceso rápido de dos formas:
 - Haciendo click en el boton derecho en la barra superior, `Personalizar barra de acceso rápido`
 ### Cinta
 Se puede modificar la cinta (segundo nav superior), para añadir nuevas propiedades o eliminarlas, tambien se pueden añadir nuevas secciones dentro del nav y nuevos tab(ficha nueva). Para ello debemos hacer click derecho en el nav superior, `Personalizar cinta`
+
+
