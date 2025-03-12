@@ -65,3 +65,6 @@ Asigna una variable.
 
 ### Importancia del ciclo de scan
 #### [PDF Ejemplo desbordamiento de memoria](../../Documents/TiaPortal/ejemplo-flanco-necesario.pdf)
+
+## Conexión a PLC física
+### [Configuración workstation .90](../../Documents/TiaPortal/config-90.md)

@@ -42,5 +42,6 @@ Apuntes sobre las herramientas utilizadas durante el curso
 
 **Siemens**
 ##### [S17 PLC Siemens I](./Tools/S17%20-%20Programacion%20PLC%20Siemens%20I.pdf)
+##### [S18 PLC Siemens II](./Tools/S18%20-%20Programacion%20PLC%20Siemens%20II.pdf)
 
 

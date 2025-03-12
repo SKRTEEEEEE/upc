@@ -7,4 +7,8 @@ Electricidad y electroténcia
 ##### [Principios](./electricidad/principios.md)
 ##### [Ejercicios](./electricidad/ejercicios.md)
 ### Tools (herramientas)
+#### EPLAN
 ##### [EPLAN intro](./eplan/intro.md)
+#### Tia Portal
+##### [Tia portal intro](./tia/start.md)
+- [Flancos](./tia/flancos.md)
