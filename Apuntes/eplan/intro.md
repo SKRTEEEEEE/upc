@@ -81,3 +81,26 @@ Se puede añadir articulos a la barra de acceso rápido de dos formas:
 Se puede modificar la cinta (segundo nav superior), para añadir nuevas propiedades o eliminarlas, tambien se pueden añadir nuevas secciones dentro del nav y nuevos tab(ficha nueva). Para ello debemos hacer click derecho en el nav superior, `Personalizar cinta`
 
 
+### PLCs
+#### Introducción
+Hay que tener muy claro las distintas tipos de PLCs.
+- **Centralizadas**
+    - **Compactas**
+    - **Modulares**
+- **Distribuidas**
+
+Las compactas, tienen solo un IME `-U1`, el resto tienen varias.
+
+#### Entradas NPN vs PNP
+Depende que tipo de entrada tengamos, debemos poner el positivo en el COM o el negativo.
+- Las salidas serán siempre de un tipo, no configurables.
+![Grafico](../../Pictures/EPLAN/NPNvsPNP.PNG)
+##### NPN
+- Q0.0 -> Bobina (rele, cosumidor, bombilla) -> 24V
+- Tienen la referencia `T`
+##### PNP
+- Q0.0 -> Bobina -> 0V
+- Tienen la referencia `T1`
+
+#### 'Macro' input
+Para cambiar el texto de la PLC, que corresponde a dicha entrada, hacemos click en la parte de `Spare` -> `Shift+[Doble-Click]` -> Esto nos abre un menu para modificar-lo
