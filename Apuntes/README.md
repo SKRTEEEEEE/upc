@@ -12,3 +12,5 @@ Electricidad y electroténcia
 #### Tia Portal
 ##### [Tia portal intro](./tia/start.md)
 - [Flancos](./tia/flancos.md)
+### Programación
+#### [GRAFCET](./programacion/grafcet.md)
