@@ -67,5 +67,5 @@ Contenido del curso sobre las herramientas utilizadas durante el curso
 
 
 ##### TOEND ⚠⬇
-##### [S02 Electrotecnia](./Base)
+##### [S02 Base](./Base)
 ##### [S02 Tools](./Tools)
