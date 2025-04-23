@@ -27,3 +27,9 @@ Q0.0
 Q0.1
 #### Luz roja
 Q0.2
+#### Cilindro inferior
+Q3.0
+#### Cilindro superior
+Q3.1
+#### Cilindro carro peq
+Q3.2
