@@ -20,3 +20,19 @@
 
 ## Detectores
 - A diferencia de los sensores, que te dan una magnitud, los detectores detectan algo.
+
+### Presión
+#### Sin transmición
+##### Manómetro 
+Mira la diferencia entre dos presiones, puede ser absoluta (sobre atmosfera) o diferencial (sobre una presion conocida)
+##### Bourdom 
+Tubo curvado que ejerce una medida directa de la presión
+#### Transmisores de presión 
+Contienen un elementro primario (mide) y secundario (envia la señal/transforma)
+##### Piezorresictivos
+Elementos piezorresistivos dentro de un único chip de silicio, actuando este como un diafragma que se deforma por la presión introducida.
+
+    • 🧠 Un piezorresistivo es un cristal que al comprimirse produce una carga proporcional a la presión.
+
+##### Capacitivos
+Generan una capacidad lineal por la presion ejercida, son diferenciales.

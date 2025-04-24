@@ -17,9 +17,10 @@ I0.4
 #### Botonera dos verdes
 ##### Boton Rojo NC
 I0.5
-
 ##### Botones verde
 I0.6 - I0.7
+
+
 ### De salida
 #### Luz verde
 Q0.0
@@ -29,7 +30,19 @@ Q0.1
 Q0.2
 #### Cilindro inferior
 Q3.0
+##### Reed inicio carrera
+I3.0
+##### Reed final carrera
+I3.1
 #### Cilindro superior
 Q3.1
+##### Reed inicio carrera
+I3.2
+##### Reed final carrera
+I3.3
 #### Cilindro carro peq
 Q3.2
+##### Reed inicio carrera
+I3.4
+##### Reed final carrera
+I3.5
