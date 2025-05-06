@@ -36,3 +36,26 @@ Elementos piezorresistivos dentro de un único chip de silicio, actuando este co
 
 ##### Capacitivos
 Generan una capacidad lineal por la presion ejercida, son diferenciales.
+### Caudal
+#### Presión
+Los siguientes tipos utilizan el principio de Bernouilli, para calcular la presión.
+##### Desplazamiento volumen
+_Miden la cantidad de desplazamiento con unas ruedas_
+##### Presión diferencial
+Por obstruccion y una union en cada punto, podemos obtener la diferencia.
+##### Pilot
+Es un palo con dos agujeros, en uno cerrado metemos la presion estatica y en el otro introduccimos la presion dinamica para obtener la velocidad en ese punto.
+#### Electromagneticos
+Los siguientes tipos utilizan la fuerza magnetica para obtener la medida de una forma electrica.
+##### Sensor de caudal electromagneticos
+Para fluidos conductores, Utilizan la diferencia de campos, del propio fluido vs el de un electroiman.
+##### Vortex
+A partir del Número de Strouhal podemos obtener el caudal al obtener la velocidad media.
+#### Massa
+Los siguientes tipos utilizan la fuerza de Coriolis para obtener la magnitud.
+##### Coriolis
+### Nivel
+#### Presión hidrostática
+A partir de la presión podemos deducir la altura si conocemos el fluido
+#### Ultrasonidos
+A partir de ondas se refleja el 
